@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -54,3 +55,7 @@ A browser window will appear showing the contents of the current directory.  Cli
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# Self-DrivingCarEngineerPreview
+Udacity Self-DrivingCar Nanodegree's Preview 
+>>>>>>> 988f9d862f3978ac1847cd6803134ee383d89fe6
