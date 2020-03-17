@@ -11,6 +11,9 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project I detected lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-In the file [P1.ipynb](../master/P1.ipynb) I detected lane lines in the videos provided by Udacity.
+- [P1.ipynb](../master/P1.ipynb): I detected lane lines in the videos provided by Udacity.
 
-In the file [P1_RJ.ipynb](../master/P1_RJ.ipynb) I detected lane lines in a video that I recorded with my cellphone. This video is available on https://www.youtube.com/watch?v=7XyOeCH6I90
+- [P1_RJ.ipynb](../master/P1_RJ.ipynb): I detected lane lines in a video that I recorded with my cellphone.
+<center>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7XyOeCH6I90" target="_blank"><img src="http://img.youtube.com/vi/7XyOeCH6I90/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+</center>
