@@ -15,5 +15,5 @@ In this project I detected lane lines in images using Python and OpenCV.  OpenCV
 
 - [P1_RJ.ipynb](../master/P1_RJ.ipynb): I detected lane lines in a video that I recorded with my cellphone.
 <center>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=7XyOeCH6I90" target="_blank"><img src="http://img.youtube.com/vi/7XyOeCH6I90/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7XyOeCH6I90" target="_blank"><img src="http://img.youtube.com/vi/7XyOeCH6I90/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 </center>
